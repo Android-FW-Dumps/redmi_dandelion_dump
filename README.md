@@ -1,0 +1,14 @@
+# dandelion-user 10 QP1A.190711.020 V12.0.19.0.QCDINXM release-keys
+- manufacturer: xiaomi
+- platform: mt6765
+- codename: dandelion
+- flavor: dandelion-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: V12.0.19.0.QCDINXM
+- tags: release-keys
+- fingerprint: Redmi/dandelion_in/dandelion:10/QP1A.190711.020/V12.0.19.0.QCDINXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: dandelion-user-10-QP1A.190711.020-V12.0.19.0.QCDINXM-release-keys
+- repo: redmi_dandelion_dump
